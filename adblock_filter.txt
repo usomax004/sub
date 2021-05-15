@@ -1,3 +1,14 @@
 [Adblock Plus 3.10]
 ! Title: 自作フィルタ
 ! 主にまとめサイトなど
+
+!--- NEWSまとめもりー ---!
+akb48matomemory.com##.popular
+akb48matomemory.com##.rss
+akb48matomemory.com##.rss2
+akb48matomemory.com##.antenna-text-list
+akb48matomemory.com###PERMALINK_SYSTEM_6aa41c84dcf1bd0e26edbebd5b7a59f1
+akb48matomemory.com###PERMALINK_SYSTEM_130b6d5cbbb58e813dc44bd7a6afd2ea
+akb48matomemory.com##.related-articles.with-image.ldblog_related_articles_4d79a6fb
+akb48matomemory.com##.recent-article-image
+akb48matomemory.com##.sns-single
