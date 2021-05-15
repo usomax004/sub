@@ -58,13 +58,11 @@ hamusoku.com##*.with-image.related-articles
 
 !--- 【2ch】ニュー速クオリティ ---!
 news4vip.livedoor.biz###PERMALINK_SYSTEM_43c11d61cf047c94024ee15b6ede1f0b
-news4vip.livedoor.biz###blogroll-306957
-news4vip.livedoor.biz##.blogroll-channel
 news4vip.livedoor.biz###PERMALINK_SYSTEM_95ef707dfc5fa8285c1035ee19008c76
 news4vip.livedoor.biz###PERMALINK_SYSTEM_33fb930001e41736d2acfb9e0064d5e3
 news4vip.livedoor.biz###PERMALINK_SYSTEM_ad2fbced7dd6846d9f1c95bbb06ab2d6
 news4vip.livedoor.biz###PERMALINK_SYSTEM_ea5476c881f09e73578f78e44aae8327
-||news4vip.livedoor.biz/rss-test3.html
+news4vip.livedoor.biz##.adingoFluctBottomtracking
 
 !--- 哲学ニュースnwk ---!
 blog.livedoor.jp##div[style="height: 150px; overflow: auto; border: 1px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 3px;"]
