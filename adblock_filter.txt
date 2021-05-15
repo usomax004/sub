@@ -13,3 +13,14 @@ akb48matomemory.com##.related-articles.with-image.ldblog_related_articles_4d79a6
 akb48matomemory.com##.recent-article-image
 akb48matomemory.com##.sns-single
 akb48matomemory.com###ldblog_related_articles_f0754cc8_225636
+
+!--- 不思議.net ---!
+world-fusigi.net##.come_ranking_innner.clearfix
+world-fusigi.net##.content_head_wrap.clearfix
+world-fusigi.net##.side_column_wrap
+world-fusigi.net##.top_rss_wrap
+world-fusigi.net###out_link
+world-fusigi.net##.articles_under_rss
+world-fusigi.net##.related-articles.ldblog_related_articles_3eea488a
+world-fusigi.net##.monthly_popular_wrap
+
