@@ -53,6 +53,8 @@ hamusoku.com##.related-articles.with-image.ldblog_related_articles_7df1881f
 hamusoku.com##.pass_article
 hamusoku.com###popularArticlesWithImageTaggOcmcaqj51CKpSfl
 hamusoku.com##.popularArticlesWithImage.tag.A
+hamusoku.com##[href="http://hamusoku.com/archives/*.html"] > .related-article-title
+hamusoku.com##*.with-image.related-articles
 
 !--- 【2ch】ニュー速クオリティ ---!
 news4vip.livedoor.biz###PERMALINK_SYSTEM_43c11d61cf047c94024ee15b6ede1f0b
