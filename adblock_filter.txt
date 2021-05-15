@@ -19,6 +19,7 @@ www.akb48matomemory.com##b
 www.akb48matomemory.com##div.t_i.t_h
 www.akb48matomemory.com##.article_body_more > span:nth-of-type(2)
 www.akb48matomemory.com##span
+www.akb48matomemory.com##*.with-image.related-articles
 
 !--- 不思議.net ---!
 world-fusigi.net##.come_ranking_innner.clearfix
