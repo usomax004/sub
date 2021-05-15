@@ -24,3 +24,20 @@ world-fusigi.net##.articles_under_rss
 world-fusigi.net##.related-articles.ldblog_related_articles_3eea488a
 world-fusigi.net##.monthly_popular_wrap
 
+!--- 暇つぶしニュース ---!
+blog.livedoor.jp##.toprss5
+blog.livedoor.jp##.toprss3
+blog.livedoor.jp###rt-outer
+blog.livedoor.jp##.side
+blog.livedoor.jp###PERMALINK_SYSTEM_d5f6d520d62fae5b705ee0232d19983b
+blog.livedoor.jp###PERMALINK_SYSTEM_4d51e1247776a5a86477a118236000d8
+blog.livedoor.jp###PERMALINK_SYSTEM_e0639c046a7be17c1a80516683bdc2b4
+blog.livedoor.jp##.rtcm
+||blog.livedoor.jp/rbkyn844/ftp/rss.html
+||blog.livedoor.jp/rbkyn844/ftp/gazoulink3.html
+
+!--- ハムスター速報 ---!
+hamusoku.com##.topbox
+hamusoku.com##.related-articles.with-image.ldblog_related_articles_7df1881f
+hamusoku.com##.pass_article
+
