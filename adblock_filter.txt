@@ -43,7 +43,6 @@ blog.livedoor.jp###left > div.sidewrapper.plugin-memo > .side
 blog.livedoor.jp###left
 blog.livedoor.jp##.toprss3
 ||blog.livedoor.jp/rbkyn844/ftp/gazoulink*.html$subdocument
-||blog.livedoor.jp/rbkyn844/ftp/*.jpg$image
 blog.livedoor.jp###navi
 blog.livedoor.jp##.title-box_foot > .scparts
 blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
