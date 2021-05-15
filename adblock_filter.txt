@@ -3,16 +3,33 @@
 ! 主にまとめサイトなど
 
 !--- NEWSまとめもりー ---!
+akb48matomemory.com##.t_h.t_i
+akb48matomemory.com##span[style="color: rgb(255, 0, 0);"]
+akb48matomemory.com##span[style="color: rgb(0, 51, 255);"]
+akb48matomemory.com##span[style="color: rgb(0, 153, 51);"]
+akb48matomemory.com##b[style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: \"ヒラギノ角ゴ Pro W3\", \"Hiragino Kaku Gothic Pro\", 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, Osaka, sans-serif;"]
+akb48matomemory.com##span[style="background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);"]
+akb48matomemory.com##span[style="font-size: 125%;"]
+akb48matomemory.com##.sns-search-wrapper.clear
+akb48matomemory.com##.blogroll-category-name
+akb48matomemory.com##.rss-article
+akb48matomemory.com##b[style="font-size: large;"]
+akb48matomemory.com##.section-title-single0
+akb48matomemory.com##.tw-share.tw-bg
+akb48matomemory.com##.sns-share-list-single.clear
+akb48matomemory.com##.related-articles.with-image.ldblog_related_articles_*
 akb48matomemory.com##.popular
 akb48matomemory.com##.rss
 akb48matomemory.com##.rss2
 akb48matomemory.com##.antenna-text-list
 akb48matomemory.com###PERMALINK_SYSTEM_6aa41c84dcf1bd0e26edbebd5b7a59f1
 akb48matomemory.com###PERMALINK_SYSTEM_130b6d5cbbb58e813dc44bd7a6afd2ea
-akb48matomemory.com##.related-articles.with-image.ldblog_related_articles_4d79a6fb
 akb48matomemory.com##.recent-article-image
 akb48matomemory.com##.sns-single
 akb48matomemory.com###ldblog_related_articles_f0754cc8_225636
+akb48matomemory.com###ldblog_related_articles_c9de02d9_682737
+akb48matomemory.com###ldblog_related_articles_74a97aa6_225636
+akb48matomemory.com##.keywords
 
 !--- 不思議.net ---!
 world-fusigi.net##.come_ranking_innner.clearfix
