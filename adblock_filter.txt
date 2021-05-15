@@ -17,7 +17,7 @@ akb48matomemory.com##b[style="font-size: large;"]
 akb48matomemory.com##.section-title-single0
 akb48matomemory.com##.tw-share.tw-bg
 akb48matomemory.com##.sns-share-list-single.clear
-akb48matomemory.com##.related-articles.with-image.ldblog_related_articles_*
+|akb48matomemory.com##.related-articles.with-image.ldblog_related_articles_*
 akb48matomemory.com##.popular
 akb48matomemory.com##.rss
 akb48matomemory.com##.rss2
