@@ -2,196 +2,146 @@
 ! Title: 自作フィルタ
 ! 主にまとめサイトなど
 
+!--- 共通: SNSボタン ---!
+||www.facebook.com/plugins/*$subdocument
+*##.hatena-bookmark-button-frame
+||platform.twitter.com/widgets/tweet_button.*$subdocument
+||social-plugins.line.me/widget/share$subdocument
+
 !--- NEWSまとめもりー ---!
 www.akb48matomemory.com##.popular
-www.akb48matomemory.com##.clear.sns-search-wrapper
 www.akb48matomemory.com##.article-body > ul.antenna-text-list
-www.akb48matomemory.com##h2#t_title:nth-of-type(1)
-www.akb48matomemory.com##p.section-title-single0:nth-of-type(2)
-www.akb48matomemory.com##p.section-title-single0:nth-of-type(1)
-www.akb48matomemory.com##.article_body_more > h2#t_title
-www.akb48matomemory.com##.inner-single.article-inner > .antenna-text-list
-www.akb48matomemory.com##.keywords
+www.akb48matomemory.com##.article_body_more > span
+!www.akb48matomemory.com##.article_body_more [href] > span
+www.akb48matomemory.com##.antenna-text-list
 www.akb48matomemory.com##.sns-single
-www.akb48matomemory.com##li.sns-share-item-single:nth-of-type(1)
-www.akb48matomemory.com##.share-top.sns-share-single > .clear.sns-share-list-single
-www.akb48matomemory.com##b
-www.akb48matomemory.com##div.t_i.t_h
-www.akb48matomemory.com##.article_body_more > span:nth-of-type(2)
-www.akb48matomemory.com##span
-www.akb48matomemory.com##*.with-image.related-articles
+www.akb48matomemory.com##aside.related-articles-wrapper
 
 !--- 不思議.net ---!
-world-fusigi.net##.clearfix.come_ranking_innner
-world-fusigi.net##.clearfix.content_head_left > .top_rss_wrap
+world-fusigi.net##.come_ranking_wrap
 world-fusigi.net##.clearfix.content_head_wrap
-world-fusigi.net##.ad_btm.clearfix > .top_rss_wrap > .top_rss_up
-world-fusigi.net##.ad_btm.clearfix > .top_rss_wrap
-world-fusigi.net##div.top_rss_side_ad:nth-of-type(2)
-world-fusigi.net##.sns_search_wrap
-world-fusigi.net##div.top_rss_side_ad:nth-of-type(4)
-world-fusigi.net##div#out_link:nth-of-type(1)
-world-fusigi.net##.articles_under_rss
-world-fusigi.net##.monthly_popular_wrap
+world-fusigi.net##.ad_btm.clearfix
 world-fusigi.net##.sidewrapper.plugin-memo
-world-fusigi.net##.relate
-world-fusigi.net##div#out_link:nth-of-type(82)
+world-fusigi.net##div#out_link
+world-fusigi.net##.articles_under_rss
 
 !--- 暇つぶしニュース ---!
-blog.livedoor.jp##.toprss5
-blog.livedoor.jp###left > div.sidewrapper.plugin-memo > .side
-blog.livedoor.jp###left
 blog.livedoor.jp##.toprss3
+blog.livedoor.jp##.toprss5
+blog.livedoor.jp###left
 ||blog.livedoor.jp/rbkyn844/ftp/gazoulink*.html$subdocument
-blog.livedoor.jp###navi
-blog.livedoor.jp##.title-box_foot > .scparts
 blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
 
 !--- ハムスター速報 ---!
-hamusoku.com##.topbox
-hamusoku.com##.related-articles.with-image.ldblog_related_articles_7df1881f
-hamusoku.com##.pass_article
-hamusoku.com###popularArticlesWithImageTaggOcmcaqj51CKpSfl
-hamusoku.com##.popularArticlesWithImage.tag.A
-hamusoku.com##[href="http://hamusoku.com/archives/*.html"] > .related-article-title
-hamusoku.com##*.with-image.related-articles
+hamusoku.com##.pass_article > table
+hamusoku.com##.entry-content.article-body > strong > span
+hamusoku.com##.entry-content.article-body > span > span > strong
+hamusoku.com##.popular_ranking
+hamusoku.com##.tC
 
 !--- 【2ch】ニュー速クオリティ ---!
-news4vip.livedoor.biz###PERMALINK_SYSTEM_43c11d61cf047c94024ee15b6ede1f0b
-news4vip.livedoor.biz###PERMALINK_SYSTEM_95ef707dfc5fa8285c1035ee19008c76
-news4vip.livedoor.biz###PERMALINK_SYSTEM_33fb930001e41736d2acfb9e0064d5e3
-news4vip.livedoor.biz###PERMALINK_SYSTEM_ad2fbced7dd6846d9f1c95bbb06ab2d6
-news4vip.livedoor.biz###PERMALINK_SYSTEM_ea5476c881f09e73578f78e44aae8327
 news4vip.livedoor.biz##.adingoFluctBottomtracking
+news4vip.livedoor.biz###right
+news4vip.livedoor.biz###left
 
 !--- 哲学ニュースnwk ---!
-blog.livedoor.jp##div[style="height: 150px; overflow: auto; border: 1px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 3px;"]
-blog.livedoor.jp##div[style="height:150px; overflow:auto; border:1px solid #000000; background-color:#FFFFFF; color:#000000; padding:3px; scrollbar-3dlight-color:#FFFFFF; scrollbar-arrow-color:#000000; scrollbar-darkshadow-color:#FFFFFF; scrollbar-face-color:#FFFFFF; scrollbar-highlight-color:#000000; scrollbar-shadow-color:#000000; scrollbar-track-color:#FFFFFF;"]
-blog.livedoor.jp##.pager-inner
-blog.livedoor.jp##span[style="font-size: large;"]
-blog.livedoor.jp##.related-articles.with-image.ldblog_related_articles_13abe456
-blog.livedoor.jp##.related-articles.with-image.ldblog_related_articles_f63dd27e
-blog.livedoor.jp###popularArticlesWithImageTagkosPCmbMm2e42tnz
-blog.livedoor.jp##.popularArticlesWithImage.tag.A
+blog.livedoor.jp##.column-inner-2 > table
+blog.livedoor.jp###sub > .column-inner > .column-inner-2 > div.sidewrapper.plugin-memo
+blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
+blog.livedoor.jp##.A.tag.popularArticlesWithImage
 
 !--- 稲妻速報 ---!
-inazumanews2.com###rsshead
-inazumanews2.com##.rsslinkba
-inazumanews2.com##.check
-inazumanews2.com##.plugin-tag_cloud.sidewrapper
-inazumanews2.com###PERMALINK_SYSTEM_079661927cc2cea3ce211a146c94cf65
+inazumanews2.com###sub > .column-inner
 inazumanews2.com###anop
 inazumanews2.com##.ika2
-inazumanews2.com##.newwws
 inazumanews2.com##.rslinkk
-inazumanews2.com##.rsslinkre
 inazumanews2.com##.rsslinkcare
 inazumanews2.com##.rsslinkk
-inazumanews2.com##.related-articles.ldblog_related_articles_7e94f251
+inazumanews2.com##div.link02
 
 !--- まとめたニュース ---!
-matometanews.com##.related-articles
-matometanews.com##.side
+matometanews.com###popularArticlesWithImageTagr1x0A55Ibuatqjj7 > ul
+matometanews.com##b:nth-of-type(1)
 matometanews.com###bottom-links2
-matometanews.com##div[style="text-align:left; font-size:18px; margin:60px 0px 0px 40px; line-height:150%;"]
-matometanews.com###blogroll-76764
-matometanews.com##.blogroll-channel
-||matometanews.com/rss.html
-matometanews.com###popularArticlesWithImageTag5BbsMsFEjq0szdQm
-matometanews.com##.popularArticlesWithImage.tag.A
 
 !--- 痛いニュース(ﾉ∀`) ---!
-blog.livedoor.jp###popularArticlesWithImageTagSgDOimRKvJSijc2P
 blog.livedoor.jp##.popularArticlesWithImage.tag.A
-blog.livedoor.jp###ld-topics
-blog.livedoor.jp##.ld-Topics
-blog.livedoor.jp##.related-articles.with-image.ldblog_related_articles_8ec712a4
 
 !--- NEWSぽけまとめーる ---!
-pokemon-goh.doorblog.jp##.rss-blogroll
-pokemon-goh.doorblog.jp###blogroll-233044
-pokemon-goh.doorblog.jp##.blogroll-channel
-pokemon-goh.doorblog.jp##.rss_mid_parts
-pokemon-goh.doorblog.jp##.related-articles.ldblog_related_articles_1965b902
-pokemon-goh.doorblog.jp##.left-column-inner
+pokemon-goh.doorblog.jp###more > div.t_h:nth-of-type(1) > div
+pokemon-goh.doorblog.jp##b
 
 !--- ラビット速報 ---!
 rabitsokuhou.2chblog.jp###rss
-rabitsokuhou.2chblog.jp###PERMALINK_SYSTEM_305b1cc188f5a3fa853ccc5996e7f2ed
-rabitsokuhou.2chblog.jp###PERMALINK_SYSTEM_887701dccecb935f7a4f3df12ce81b93
+rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.ad_entrybottom
 rabitsokuhou.2chblog.jp##.tandb
-rabitsokuhou.2chblog.jp##.related-articles.ldblog_related_articles_9f7a217a
 
 !--- ぶる速-VIP ---!
 burusoku-vip.com##.headline
-burusoku-vip.com##.blogroll-list-wrap
-burusoku-vip.com##span[style="font-size: 16px; line-height: 26px;"]
-burusoku-vip.com###blogroll-99459
-burusoku-vip.com##.blogroll-channel
-burusoku-vip.com###popularArticlesWithImageTag0l64EGgTAZFs5oUc
-burusoku-vip.com##.popularArticlesWithImage.tag.A
-burusoku-vip.com##.bnr_bottom02
+burusoku-vip.com##.article-body-more > b
+burusoku-vip.com##span > b
+burusoku-vip.com##.article-body-more > ul
+burusoku-vip.com##.article-footer
 
 !--- ゴールデンタイムズ ---!
-blog.livedoor.jp###popularArticlesWithImageTagtIriEg8FXI0q8Deo
-blog.livedoor.jp##.popularArticlesWithImage.tag.A
 blog.livedoor.jp##.kiziue.radius5px
 blog.livedoor.jp##.sp_kizi_recommend
 blog.livedoor.jp###article-bottom-category
-blog.livedoor.jp##.related-articles.with-image.ldblog_related_articles_81a6eff4
 
 !--- ガールズVIPまとめ ---!
-girlsvip-matome.com##.pickup_rss.rss_c1
 girlsvip-matome.com###pickup2
+girlsvip-matome.com##.rss
 girlsvip-matome.com##.kotei_link
 girlsvip-matome.com##.sns_btn2
-girlsvip-matome.com###kanren_box2
 girlsvip-matome.com##.sns-section
-girlsvip-matome.com##.rss4
-girlsvip-matome.com###ldblog_related_articles_6dbcfe61
 
 !--- IT速報 ---!
-blog.livedoor.jp##.headline
-blog.livedoor.jp##.article-sub-popular
-blog.livedoor.jp##.article-sub-rss
-blog.livedoor.jp##.related-articles.ldblog_related_articles_b23063a2
+blog.livedoor.jp##.article-header-bottom
 
 !--- ネギ速 ---!
-negisoku.com###top-rss
-negisoku.com###blogroll-36977
-negisoku.com##.blogroll-channel
-negisoku.com###iimjuvfo
-negisoku.com##.c_img
-negisoku.com##.t_a
-negisoku.com##.pickup
-negisoku.com##.related-articles.with-image.ldblog_related_articles_e9a8eae0
-negisoku.com###PERMALINK_SYSTEM_8bd952c45e74344a46167ee26f8b3752
-||negisoku.com/img/nf.png
+www.negisoku.com##.pickup
+||www.negisoku.com/img/nf.png$image
 
 !--- VIPPERな俺 ---!
 blog.livedoor.jp###recent-entry
-blog.livedoor.jp##.section
-blog.livedoor.jp##.related-articles.with-image.ldblog_related_articles_e0a4172c
+blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
 
 !--- ずっと日曜日のターン ---!
-everydayissunday.livedoor.blog##.rss-blogroll
-everydayissunday.livedoor.blog###popularArticlesWithImageTagtNvyIIumUbuFR48w
-everydayissunday.livedoor.blog##.popularArticlesWithImage.tag.A
+everydayissunday.livedoor.blog##.main-column-inner > .listWithImage
 everydayissunday.livedoor.blog##.message-board-outer
-everydayissunday.livedoor.blog##div[style="font-size: 16px; padding: 8px; border-radius: 5px; margin: 5px; border: 1px solid rgb(0, 0, 128); background-color: rgb(255, 255, 255); text-indent: 0px;"]
-everydayissunday.livedoor.blog##.related-articles.ldblog_related_articles_9b36db17
+everydayissunday.livedoor.blog###more > span
+everydayissunday.livedoor.blog##.article-body-inner > b
+everydayissunday.livedoor.blog##.many.listWithImage
 
 !--- ガハろぐNewsヽ(･ω･)/ｽﾞｺｰ ---!
-gahalog.2chblog.jp###sidebar-inner
-gahalog.2chblog.jp##.rss-inner
 gahalog.2chblog.jp##.PopularArticlesWithImageList
-gahalog.2chblog.jp##.rss-pickup
-gahalog.2chblog.jp##.related-articles.ldblog_related_articles_2c19a311
+gahalog.2chblog.jp###main > .rss-outer
+
+!--- 【2ch】コピペ情報局 ---!
+news.2chblog.jp##.aida
+
+!--- BIPブログ ---!
+bipblog.com###main_header
+bipblog.com##div.main_center_block:nth-of-type(1)
+bipblog.com##div.main_center_block > div.ent_sub_block > .ent_sub_block_body
 
 !--- おーるじゃんる ---!
-crx7601.com##.section2
-crx7601.com##.box26
-crx7601.com##.pr1
-crx7601.com##.related-articles.ldblog_related_articles_89fc0399
-||livedoor.blogimg.jp/crx7601/imgs/6/c/6c673e18.jpg
+crx7601.com##table
+
+!--- エクサクロス ---!
+exawarosu.net##.img-links
+exawarosu.net##.clear.box-style.l-inner.l-rss-top
+exawarosu.net##.l-main > div.box-style.rss-main.rss
+exawarosu.net##aside.box-style.l-popular-bottom
+||exawarosu.net/article-link-*.html$subdocument
+
+!--- VIP MEWS ---!
+www.vipnews.jp##.custom-rss-container
+www.vipnews.jp##b
+www.vipnews.jp##.article-body-more > div > div
+
+!--- ライフハックちゃんねる弐式 ---!
+lifehack2ch.livedoor.biz##.A.tag.popularArticlesWithImage
+lifehack2ch.livedoor.biz###headline
+lifehack2ch.livedoor.biz###rightbody
