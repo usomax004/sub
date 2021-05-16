@@ -8,6 +8,9 @@
 ||platform.twitter.com/widgets/tweet_button.*$subdocument
 ||social-plugins.line.me/widget/share$subdocument
 
+!--- ライブドアブログのまとめサイトのcookieバナー ---!
+pokemon-goh.doorblog.jp###gdpr-banner
+
 !--- NEWSまとめもりー ---!
 www.akb48matomemory.com##.popular
 www.akb48matomemory.com##.article-body > ul.antenna-text-list
@@ -71,6 +74,7 @@ blog.livedoor.jp##.popularArticlesWithImage.tag.A
 !--- NEWSぽけまとめーる ---!
 pokemon-goh.doorblog.jp###more > div.t_h:nth-of-type(1) > div
 pokemon-goh.doorblog.jp##b
+pokemon-goh.doorblog.jp##.rss_mid_parts
 
 !--- ラビット速報 ---!
 rabitsokuhou.2chblog.jp###rss
