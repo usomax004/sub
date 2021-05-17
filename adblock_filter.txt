@@ -8,6 +8,9 @@
 ||platform.twitter.com/widgets/tweet_button.*$subdocument
 ||social-plugins.line.me/widget/share$subdocument
 
+!--- 一般 ---!
+eng-entrance.com##.left-bottom-float
+
 !--- ライブドアブログのまとめサイトのcookieバナー ---!
 pokemon-goh.doorblog.jp###gdpr-banner
 
