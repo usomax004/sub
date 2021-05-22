@@ -8,6 +8,9 @@
 ||platform.twitter.com/widgets/tweet_button.*$subdocument
 ||social-plugins.line.me/widget/share$subdocument
 
+!--- 一般 ---!
+eng-entrance.com##.left-bottom-float
+
 !--- ライブドアブログのまとめサイトのcookieバナー ---!
 pokemon-goh.doorblog.jp###gdpr-banner
 
@@ -65,8 +68,8 @@ inazumanews2.com##div.link02
 
 !--- まとめたニュース ---!
 matometanews.com###popularArticlesWithImageTagr1x0A55Ibuatqjj7 > ul
-matometanews.com##b:nth-of-type(1)
 matometanews.com###bottom-links2
+matometanews.com###bottom-links
 
 !--- 痛いニュース(ﾉ∀`) ---!
 blog.livedoor.jp##.popularArticlesWithImage.tag.A
