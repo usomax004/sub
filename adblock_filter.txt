@@ -1,6 +1,6 @@
 [Adblock Plus 3.10]
 ! Title: 自作フィルタ
-! 主にまとめサイトなど
+! 主にまとめサイトなどです
 
 !--- 共通: SNSボタン ---!
 ||www.facebook.com/plugins/*$subdocument
