@@ -1,6 +1,7 @@
-[Adblock Plus 3.10]
+[Adblock Plus 2.0]
 ! Title: 自作フィルタ
-! 主にまとめサイトなど
+!
+! 最終更新 2021/05/24 20:37
 
 !--- 共通: SNSボタン ---!
 ||www.facebook.com/plugins/*$subdocument
