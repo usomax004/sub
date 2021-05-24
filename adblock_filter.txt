@@ -16,6 +16,7 @@ pokemon-goh.doorblog.jp###gdpr-banner
 
 !--- NEWSまとめもりー ---!
 www.akb48matomemory.com##.popular
+www.akb48matomemory.com##b
 www.akb48matomemory.com##.article-body > ul.antenna-text-list
 www.akb48matomemory.com##.article_body_more > span
 www.akb48matomemory.com##.article_body_more [href] > span
@@ -23,6 +24,7 @@ www.akb48matomemory.com##.antenna-text-list
 www.akb48matomemory.com##.sns-single
 www.akb48matomemory.com##aside.related-articles-wrapper
 www.akb48matomemory.com##p.section-title-single0
+www.akb48matomemory.com##ul.antenna-text-list
 
 !--- 不思議.net ---!
 world-fusigi.net##.come_ranking_wrap
@@ -136,7 +138,11 @@ bipblog.com##div.main_center_block > div.ent_sub_block > .ent_sub_block_body
 
 !--- おーるじゃんる ---!
 crx7601.com##table
+<<<<<<< HEAD
 crx7601.com##.article-body-more > .box-title
+=======
+crx7601.com##b
+>>>>>>> c2761b31ff51407ada5ef21e553ce67949a66305
 
 !--- エクサクロス ---!
 exawarosu.net##.img-links
