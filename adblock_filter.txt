@@ -136,6 +136,7 @@ bipblog.com##div.main_center_block > div.ent_sub_block > .ent_sub_block_body
 
 !--- おーるじゃんる ---!
 crx7601.com##table
+crx7601.com##.article-body-more > .box-title
 
 !--- エクサクロス ---!
 exawarosu.net##.img-links
