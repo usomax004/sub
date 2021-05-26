@@ -38,6 +38,7 @@ world-fusigi.net##.articles_under_rss
 blog.livedoor.jp##.toprss3
 blog.livedoor.jp##.toprss5
 blog.livedoor.jp###left
+blog.livedoor.jp##div.link2
 ||blog.livedoor.jp/rbkyn844/ftp/gazoulink*.html$subdocument
 blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
 
