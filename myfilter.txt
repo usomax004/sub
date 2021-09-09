@@ -159,3 +159,14 @@ www.vipnews.jp##.article-body-more > div > div
 lifehack2ch.livedoor.biz##.A.tag.popularArticlesWithImage
 lifehack2ch.livedoor.biz###headline
 lifehack2ch.livedoor.biz###rightbody
+
+!--- 追加分: 未整理 ---!
+www.sejuku.net##.active.footer-banner
+news4vip.livedoor.biz##.blogroll-channel
+pokemon-goh.doorblog.jp##div.rss-blogroll
+burusoku-vip.com##.entry-content.article-body > .blogroll-channel
+www.negisoku.com##.column-inner-2 > .blogroll-channel
+news-buzz1.com##.blogroll-wrapper
+news-buzz1.com##.buzznaka
+blog.livedoor.jp##.headline
+everydayissunday.livedoor.blog##.rss-blogroll
