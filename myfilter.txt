@@ -170,3 +170,8 @@ news-buzz1.com##.blogroll-wrapper
 news-buzz1.com##.buzznaka
 blog.livedoor.jp##.headline
 everydayissunday.livedoor.blog##.rss-blogroll
+blog.livedoor.com###side
+news4vip.livedoor.biz##.blogroll-channel
+www.negisoku.com##.blogroll-channel
+news-buzz1.com##.blogroll-wrapper
+news-buzz1.com##.buzznaka
