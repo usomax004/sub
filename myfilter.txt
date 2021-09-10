@@ -175,3 +175,5 @@ news4vip.livedoor.biz##.blogroll-channel
 www.negisoku.com##.blogroll-channel
 news-buzz1.com##.blogroll-wrapper
 news-buzz1.com##.buzznaka
+! 2021-09-10 http://news4vip.livedoor.biz
+news4vip.livedoor.biz##.blogroll-list-wrap
