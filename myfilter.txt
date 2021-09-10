@@ -58,7 +58,6 @@ news4vip.livedoor.biz###left
 !--- 哲学ニュースnwk ---!
 blog.livedoor.jp##.column-inner-2 > table
 blog.livedoor.jp###sub > .column-inner > .column-inner-2 > div.sidewrapper.plugin-memo
-blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
 blog.livedoor.jp##.A.tag.popularArticlesWithImage
 
 !--- 稲妻速報 ---!
@@ -163,17 +162,13 @@ lifehack2ch.livedoor.biz###rightbody
 !--- 追加分: 未整理 ---!
 www.sejuku.net##.active.footer-banner
 news4vip.livedoor.biz##.blogroll-channel
-pokemon-goh.doorblog.jp##div.rss-blogroll
-burusoku-vip.com##.entry-content.article-body > .blogroll-channel
-www.negisoku.com##.column-inner-2 > .blogroll-channel
+news4vip.livedoor.biz##.blogroll-list-wrap
 news-buzz1.com##.blogroll-wrapper
 news-buzz1.com##.buzznaka
 blog.livedoor.jp##.headline
-everydayissunday.livedoor.blog##.rss-blogroll
 blog.livedoor.com###side
-news4vip.livedoor.biz##.blogroll-channel
 www.negisoku.com##.blogroll-channel
-news-buzz1.com##.blogroll-wrapper
-news-buzz1.com##.buzznaka
-! 2021-09-10 http://news4vip.livedoor.biz
-news4vip.livedoor.biz##.blogroll-list-wrap
+www.negisoku.com##.column-inner-2 > .blogroll-channel
+pokemon-goh.doorblog.jp##div.rss-blogroll
+burusoku-vip.com##.entry-content.article-body > .blogroll-channel
+everydayissunday.livedoor.blog##.rss-blogroll
