@@ -75,7 +75,10 @@ matometanews.com###bottom-links
 blog.livedoor.jp##.popularArticlesWithImage.tag.A
 
 !--- NEWSぽけまとめーる ---!
-
+pokemon-goh.doorblog.jp##div.rss-blogroll:nth-of-type(3)
+pokemon-goh.doorblog.jp##div.rss-blogroll:nth-of-type(4)
+pokemon-goh.doorblog.jp##.rss_mid_parts
+pokemon-goh.doorblog.jp##div.t_h > b
 
 !--- ラビット速報 ---!
 rabitsokuhou.2chblog.jp###rss
