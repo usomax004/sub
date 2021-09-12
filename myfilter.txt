@@ -12,7 +12,7 @@
 eng-entrance.com##.left-bottom-float
 
 !--- ライブドアブログのまとめサイトのcookieバナー ---!
-pokemon-goh.doorblog.jp###gdpr-banner
+
 
 !--- NEWSまとめもりー ---!
 www.akb48matomemory.com##.popular
