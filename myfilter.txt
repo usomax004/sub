@@ -169,7 +169,6 @@ blog.livedoor.jp##.headline
 blog.livedoor.com###side
 www.negisoku.com##.blogroll-channel
 www.negisoku.com##.column-inner-2 > .blogroll-channel
-pokemon-goh.doorblog.jp##div.rss-blogroll
 burusoku-vip.com##.entry-content.article-body > .blogroll-channel
 everydayissunday.livedoor.blog##.rss-blogroll
 www.akb48matomemory.com##h2#t_title:nth-of-type(1)
