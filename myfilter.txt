@@ -11,9 +11,6 @@
 !--- 一般 ---!
 eng-entrance.com##.left-bottom-float
 
-!--- ライブドアブログのまとめサイトのcookieバナー ---!
-
-
 !--- NEWSまとめもりー ---!
 www.akb48matomemory.com##.popular
 www.akb48matomemory.com##b
@@ -78,9 +75,7 @@ matometanews.com###bottom-links
 blog.livedoor.jp##.popularArticlesWithImage.tag.A
 
 !--- NEWSぽけまとめーる ---!
-pokemon-goh.doorblog.jp###more > div.t_h:nth-of-type(1) > div
-pokemon-goh.doorblog.jp##b
-pokemon-goh.doorblog.jp##.rss_mid_parts
+
 
 !--- ラビット速報 ---!
 rabitsokuhou.2chblog.jp###rss
