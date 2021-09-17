@@ -148,9 +148,7 @@ exawarosu.net##aside.box-style.l-popular-bottom
 ||exawarosu.net/article-link-*.html$subdocument
 
 !--- VIP MEWS ---!
-www.vipnews.jp##.custom-rss-container
-www.vipnews.jp##b
-www.vipnews.jp##.article-body-more > div > div
+
 
 !--- ライフハックちゃんねる弐式 ---!
 lifehack2ch.livedoor.biz##.A.tag.popularArticlesWithImage
