@@ -32,7 +32,7 @@ world-fusigi.net##.sidewrapper.plugin-memo
 world-fusigi.net##div#out_link
 world-fusigi.net##.articles_under_rss
 
-!--- 暇つぶしニュース ---!
+!--- blog.livedoor: 暇つぶしニュース, 哲学ニュースnwk, 痛いニュース(ﾉ∀`), ゴールデンタイムズ, IT速報, VIPPERな俺, BIPブログ ---!
 blog.livedoor.jp##.toprss3
 blog.livedoor.jp##.toprss5
 blog.livedoor.jp###left
@@ -41,6 +41,21 @@ blog.livedoor.jp##div.link2
 blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
 blog.livedoor.jp##.article-body-more > b
 blog.livedoor.jp##[href^="http://2ch-c.net/"]
+blog.livedoor.jp##.headline
+blog.livedoor.com###side
+blog.livedoor.jp##.column-inner-2 > table
+blog.livedoor.jp###sub > .column-inner > .column-inner-2 > div.sidewrapper.plugin-memo
+blog.livedoor.jp##.A.tag.popularArticlesWithImage
+blog.livedoor.jp##.popularArticlesWithImage.tag.A
+blog.livedoor.jp##.kiziue.radius5px
+blog.livedoor.jp##.sp_kizi_recommend
+blog.livedoor.jp###article-bottom-category
+blog.livedoor.jp##.article-header-bottom
+blog.livedoor.jp###recent-entry
+blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
+bipblog.com###main_header
+bipblog.com##div.main_center_block:nth-of-type(1)
+bipblog.com##div.main_center_block > div.ent_sub_block > .ent_sub_block_body
 
 !--- ハムスター速報 ---!
 hamusoku.com##.pass_article > table
@@ -53,11 +68,6 @@ hamusoku.com##.tC
 news4vip.livedoor.biz##.adingoFluctBottomtracking
 news4vip.livedoor.biz###right
 news4vip.livedoor.biz###left
-
-!--- 哲学ニュースnwk ---!
-blog.livedoor.jp##.column-inner-2 > table
-blog.livedoor.jp###sub > .column-inner > .column-inner-2 > div.sidewrapper.plugin-memo
-blog.livedoor.jp##.A.tag.popularArticlesWithImage
 
 !--- 稲妻速報 ---!
 inazumanews2.com###sub > .column-inner
@@ -72,9 +82,6 @@ inazumanews2.com##div.link02
 matometanews.com###popularArticlesWithImageTagr1x0A55Ibuatqjj7 > ul
 matometanews.com###bottom-links2
 matometanews.com###bottom-links
-
-!--- 痛いニュース(ﾉ∀`) ---!
-blog.livedoor.jp##.popularArticlesWithImage.tag.A
 
 !--- NEWSぽけまとめーる ---!
 pokemon-goh.doorblog.jp##div.rss-blogroll:nth-of-type(3)
@@ -95,11 +102,6 @@ burusoku-vip.com##span > b
 burusoku-vip.com##.article-body-more > ul
 burusoku-vip.com##.article-footer
 
-!--- ゴールデンタイムズ ---!
-blog.livedoor.jp##.kiziue.radius5px
-blog.livedoor.jp##.sp_kizi_recommend
-blog.livedoor.jp###article-bottom-category
-
 !--- ガールズVIPまとめ ---!
 girlsvip-matome.com###pickup2
 girlsvip-matome.com##.rss
@@ -107,16 +109,9 @@ girlsvip-matome.com##.kotei_link
 girlsvip-matome.com##.sns_btn2
 girlsvip-matome.com##.sns-section
 
-!--- IT速報 ---!
-blog.livedoor.jp##.article-header-bottom
-
 !--- ネギ速 ---!
 www.negisoku.com##.pickup
 ||www.negisoku.com/img/nf.png$image
-
-!--- VIPPERな俺 ---!
-blog.livedoor.jp###recent-entry
-blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
 
 !--- ずっと日曜日のターン ---!
 everydayissunday.livedoor.blog##.main-column-inner > .listWithImage
@@ -131,11 +126,6 @@ gahalog.2chblog.jp###main > .rss-outer
 
 !--- 【2ch】コピペ情報局 ---!
 news.2chblog.jp##.aida
-
-!--- BIPブログ ---!
-bipblog.com###main_header
-bipblog.com##div.main_center_block:nth-of-type(1)
-bipblog.com##div.main_center_block > div.ent_sub_block > .ent_sub_block_body
 
 !--- おーるじゃんる ---!
 crx7601.com##table
@@ -165,11 +155,10 @@ news4vip.livedoor.biz##.blogroll-channel
 news4vip.livedoor.biz##.blogroll-list-wrap
 news-buzz1.com##.blogroll-wrapper
 news-buzz1.com##.buzznaka
-blog.livedoor.jp##.headline
-blog.livedoor.com###side
 www.negisoku.com##.blogroll-channel
 www.negisoku.com##.column-inner-2 > .blogroll-channel
 burusoku-vip.com##.entry-content.article-body > .blogroll-channel
 everydayissunday.livedoor.blog##.rss-blogroll
 www.akb48matomemory.com##h2#t_title:nth-of-type(1)
 www.akb48matomemory.com##.article-body > [href]
+exawarosu.net##div.box-style.rss-main.rss
