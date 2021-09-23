@@ -34,26 +34,12 @@ world-fusigi.net##.come_ranking_wrap
 world-fusigi.net##.sidewrapper.plugin-memo
 world-fusigi.net##div#out_link
 
-!--- blog.livedoor: 暇つぶしニュース, 哲学ニュースnwk, 痛いニュース(ﾉ∀`), ゴールデンタイムズ, IT速報, VIPPERな俺 ---!
-blog.livedoor.com###side
-blog.livedoor.jp###article-bottom-category
-blog.livedoor.jp###left
-blog.livedoor.jp###recent-entry
-blog.livedoor.jp###sub > .column-inner > .column-inner-2 > div.sidewrapper.plugin-memo
-blog.livedoor.jp##.A.tag.popularArticlesWithImage
-blog.livedoor.jp##.article-body-more > b
-blog.livedoor.jp##.article-header-bottom
-blog.livedoor.jp##.column-inner-2 > table
-blog.livedoor.jp##.headline
-blog.livedoor.jp##.kiziue.radius5px
-blog.livedoor.jp##.popularArticlesWithImage.tag.A
-blog.livedoor.jp##.sidewrapper.plugin-popular_articles_with_image
-blog.livedoor.jp##.sp_kizi_recommend
-blog.livedoor.jp##.toprss3
-blog.livedoor.jp##.toprss5
-blog.livedoor.jp##[href^="http://2ch-c.net/"]
-blog.livedoor.jp##div.link2
-||blog.livedoor.jp/rbkyn844/ftp/gazoulink*.html$subdocument
+!--- 暇つぶしニュース ---!
+!--- 哲学ニュースnwk ---!
+!--- 痛いニュース(ﾉ∀`) ---!
+!--- ゴールデンタイムズ ---!
+!--- IT速報 ---!
+!--- VIPPERな俺 ---!
 
 !--- ハムスター速報 ---!
 hamusoku.com##.entry-content.article-body > span > span > strong
