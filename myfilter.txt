@@ -93,6 +93,7 @@ rabitsokuhou.2chblog.jp###rss
 rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.ad_entrybottom
 rabitsokuhou.2chblog.jp##.tandb
+rabitsokuhou.2chblog.jp##.entrybody ul
 
 !--- ぶる速-VIP ---!
 burusoku-vip.com##.headline
@@ -141,6 +142,7 @@ exawarosu.net##.clear.box-style.l-inner.l-rss-top
 exawarosu.net##.l-main > div.box-style.rss-main.rss
 exawarosu.net##aside.box-style.l-popular-bottom
 exawarosu.net##div.box-style.rss-main.rss
+exawarosu.net##div.box-style.rss-main.rss:nth-of-type(4)
 ||exawarosu.net/article-link-*.html$subdocument
 
 !--- VIP MEWS ---!
