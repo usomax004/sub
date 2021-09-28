@@ -165,3 +165,4 @@ lifehack2ch.livedoor.biz###rightbody
 www.sejuku.net##.active.footer-banner
 news-buzz1.com##.blogroll-wrapper
 news-buzz1.com##.buzznaka
+blog.livedoor.com###side
