@@ -166,6 +166,12 @@ lifehack2ch.livedoor.biz###rightbody
 usi32.com##.rss-outer
 usi32.com##div#out_link:nth-of-type(1)
 
+!--- ふぇー速 ---!
+fesoku.net###container > table > tbody
+fesoku.net##.titlehl
+fesoku.net##.rss_mid_parts
+fesoku.net##.article-content > [src]
+
 !--- 追加分: 未整理 ---!
 www.sejuku.net##.active.footer-banner
 news-buzz1.com##.blogroll-wrapper
