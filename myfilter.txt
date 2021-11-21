@@ -156,6 +156,7 @@ www.vipnews.jp##.article-body-more > div:nth-of-type(1)
 bipblog.com###main_header
 bipblog.com##div.main_center_block:nth-of-type(1)
 bipblog.com##div.main_center_block > div.ent_sub_block > .ent_sub_block_body
+bipblog.com###ent > [src]
 
 !--- ライフハックちゃんねる弐式 ---!
 lifehack2ch.livedoor.biz##.A.tag.popularArticlesWithImage
