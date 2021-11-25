@@ -179,8 +179,8 @@ fesoku.net##.article-content > [src]
 
 !--- ニュース Buzz! ---!
 news-buzz1.com##.buzzlinkc
-
-!--- 追加分: 未整理 ---!
 news-buzz1.com##.blogroll-wrapper
 news-buzz1.com##.buzznaka
+
+!--- 追加分: 未整理 ---!
 blog.livedoor.com###side
