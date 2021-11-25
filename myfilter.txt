@@ -82,6 +82,7 @@ inazumanews2.com##.rslinkk
 inazumanews2.com##.rsslinkcare
 inazumanews2.com##.rsslinkk
 inazumanews2.com##div.link02
+inazumanews2.com##.checkll
 
 !--- まとめたニュース ---!
 matometanews.com###popularArticlesWithImageTagr1x0A55Ibuatqjj7 > ul
