@@ -43,6 +43,7 @@ world-fusigi.net##div#out_link
 blog.livedoor.jp##.toprss5
 blog.livedoor.jp##.toprss3
 blog.livedoor.jp##div.link2 > b
+blog.livedoor.jp##p.res1 > b
 
 !--- 哲学ニュースnwk ---!
 blog.livedoor.jp##.column-inner-2 > table
