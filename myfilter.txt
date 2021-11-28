@@ -7,6 +7,7 @@
 *##.hatena-bookmark-button-frame
 ||platform.twitter.com/widgets/tweet_button.*$subdocument
 ||social-plugins.line.me/widget/share$subdocument
+twitter.com###credential_picker_container
 
 !--- 一般 ---!
 eng-entrance.com##.left-bottom-float
@@ -84,6 +85,7 @@ inazumanews2.com##.rsslinkcare
 inazumanews2.com##.rsslinkk
 inazumanews2.com##div.link02
 inazumanews2.com##.checkll
+inazumanews2.com###rsshead
 
 !--- まとめたニュース ---!
 matometanews.com###popularArticlesWithImageTagr1x0A55Ibuatqjj7 > ul
