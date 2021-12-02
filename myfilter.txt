@@ -38,6 +38,9 @@ www.akb48matomemory.com##h2#t_title:nth-of-type(1)
 www.akb48matomemory.com##p.section-title-single0
 www.akb48matomemory.com##ul.antenna-text-list
 www.akb48matomemory.com###t_title > span
+www.akb48matomemory.com##aside.section
+www.akb48matomemory.com##div.sidewrapper > center
+www.akb48matomemory.com##.ad-article
 
 !--- 不思議.net ---!
 world-fusigi.net##.ad_btm.clearfix
