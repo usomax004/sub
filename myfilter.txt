@@ -123,6 +123,9 @@ burusoku-vip.com##span > b
 burusoku-vip.com##.article-body-more > ul
 burusoku-vip.com##.article-footer
 burusoku-vip.com##.entry-content.article-body > .blogroll-channel
+!-- スマホ
+burusoku-vip.com##.content > aside.section-box
+burusoku-vip.com###article-contents > b
 
 !--- ガールズVIPまとめ ---!
 girlsvip-matome.com###pickup2
@@ -197,15 +200,23 @@ news-buzz1.com##.buzzlinkc
 news-buzz1.com##.blogroll-wrapper
 news-buzz1.com##.buzznaka
 
-!--- v速ニュップ ---!
-www.vsnp.net##.Header__contentsParts
-www.vsnp.net##.Main__contents > .box
+!--- v速ニュップ: スマホ ---!
+www.vsnp.net##.block.popular-entry
+www.vsnp.net##div.box-border.box.plugin-box.section-box
+www.vsnp.net##div.free-area
 
-!--- おうまがタイムズ ---!
-www.oumaga-times.com##.rss-blogroll
-www.oumaga-times.com##.popular-list-header
-www.oumaga-times.com##.popular-list
-www.oumaga-times.com##.kijinaka-link
+!--- おうまがタイムズ: スマホ ---!
+www.oumaga-times.com##.content > aside.section-box
+
+!--- パリピにゅーす: スマホ ---!
+paripinews.net##.news
+paripinews.net##.block.popular-entry
+paripinews.net##.search
+paripinews.net##div.free-area
+
+!--- 億ったー: スマホ ---!
+www.okutta.net##div.free-area
+www.okutta.net##.block.popular-entry
 
 !--- 追加分: 未整理 ---!
 blog.livedoor.com###side
