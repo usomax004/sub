@@ -16,7 +16,7 @@ eng-entrance.com##.left-bottom-float
 !--- プログラミング関係 ---!
 www.sejuku.net###float-cta-banner
 www.sejuku.net##.active.footer-banner
-techacademy.jp###popmake-*
+techacademy.jp###popmake-75846
 
 !--- 横浜銀行 ---!
 www.parasol.anser.ne.jp###swpBlkChild511
