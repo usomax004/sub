@@ -197,5 +197,15 @@ news-buzz1.com##.buzzlinkc
 news-buzz1.com##.blogroll-wrapper
 news-buzz1.com##.buzznaka
 
+!--- v速ニュップ ---!
+www.vsnp.net##.Header__contentsParts
+www.vsnp.net##.Main__contents > .box
+
+!--- おうまがタイムズ ---!
+www.oumaga-times.com##.rss-blogroll
+www.oumaga-times.com##.popular-list-header
+www.oumaga-times.com##.popular-list
+www.oumaga-times.com##.kijinaka-link
+
 !--- 追加分: 未整理 ---!
 blog.livedoor.com###side
