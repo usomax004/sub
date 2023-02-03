@@ -18,12 +18,6 @@ www.sejuku.net###float-cta-banner
 www.sejuku.net##.active.footer-banner
 techacademy.jp###popmake-75846
 
-!--- 横浜銀行 ---!
-www.parasol.anser.ne.jp###swpBlkChild511
-www.parasol.anser.ne.jp###swpBlkChild015
-www.parasol.anser.ne.jp###swpBlkChild006 > div > table
-www.parasol.anser.ne.jp##div:nth-of-type(2) > .heading-areaA02
-
 !--- NEWSまとめもりー ---!
 www.akb48matomemory.com##.antenna-text-list
 www.akb48matomemory.com##.article-body > [href]
@@ -54,8 +48,7 @@ world-fusigi.net##div#out_link
 !--- 暇つぶしニュース ---!
 blog.livedoor.jp##.toprss5
 blog.livedoor.jp##.toprss3
-blog.livedoor.jp##div.link2 > b
-blog.livedoor.jp##p.res1 > b
+blog.livedoor.jp##div.link2
 
 !--- 哲学ニュースnwk ---!
 blog.livedoor.jp##.column-inner-2 > table
@@ -157,6 +150,8 @@ news.2chblog.jp##.aida
 crx7601.com##table
 crx7601.com##.article-body-more > .box-title
 crx7601.com##b
+crx7601.com##.ad-center.yms-user-ad-728
+crx7601.com##.blogroll-channel
 
 !--- エクサクロス ---!
 exawarosu.net##.img-links
