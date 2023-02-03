@@ -13,6 +13,19 @@ twitter.com###credential_picker_container
 !--- 一般 ---!
 eng-entrance.com##.left-bottom-float
 
+!--- OCN ---!
+www.ocn.ne.jp##.inactive.rbox.swiper-container
+www.ocn.ne.jp###press
+www.ocn.ne.jp###provider
+www.ocn.ne.jp###business
+www.ocn.ne.jp###digitalstore
+www.ocn.ne.jp###campaign
+www.ocn.ne.jp###goostore
+www.ocn.ne.jp###oshiete
+www.ocn.ne.jp##div.topinfo:nth-of-type(4)
+www.ocn.ne.jp##div.topinfo:nth-of-type(5)
+www.ocn.ne.jp###mobile
+
 !--- プログラミング関係 ---!
 www.sejuku.net###float-cta-banner
 www.sejuku.net##.active.footer-banner
@@ -44,6 +57,15 @@ world-fusigi.net##.clearfix.content_head_wrap
 world-fusigi.net##.come_ranking_wrap
 world-fusigi.net##.sidewrapper.plugin-memo
 world-fusigi.net##div#out_link
+world-fusigi.net###twitter-widget-0
+world-fusigi.net##blockquote.twitter-tweet
+world-fusigi.net##.twitter-tweet-rendered.twitter-tweet
+
+!--- blog.livedoor.jp ---!
+blog.livedoor.jp###\37 w2v39bp > div
+blog.livedoor.jp##.article-body-more > .c_img
+blog.livedoor.com###gdpr-banner
+blog.livedoor.com###side
 
 !--- 暇つぶしニュース ---!
 blog.livedoor.jp##.toprss5
@@ -90,6 +112,12 @@ inazumanews2.com##.rsslinkk
 inazumanews2.com##div.link02
 inazumanews2.com##.checkll
 inazumanews2.com###rsshead
+! 2023-01-30 http://inazumanews2.com
+inazumanews2.com##.checktop
+inazumanews2.com##div.checktopto:nth-of-type(5)
+inazumanews2.com##div.checktopto:nth-of-type(2)
+inazumanews2.com##div.checktopto:nth-of-type(3)
+inazumanews2.com##div.checktopto:nth-of-type(4)
 
 !--- まとめたニュース ---!
 matometanews.com###popularArticlesWithImageTagr1x0A55Ibuatqjj7 > ul
@@ -194,4 +222,3 @@ news-buzz1.com##.blogroll-wrapper
 news-buzz1.com##.buzznaka
 
 !--- 追加分: 未整理 ---!
-blog.livedoor.com###side
