@@ -57,9 +57,9 @@ world-fusigi.net##.clearfix.content_head_wrap
 world-fusigi.net##.come_ranking_wrap
 world-fusigi.net##.sidewrapper.plugin-memo
 world-fusigi.net##div#out_link
-world-fusigi.net###twitter-widget-0
+!world-fusigi.net###twitter-widget-0
 world-fusigi.net##blockquote.twitter-tweet
-world-fusigi.net##.twitter-tweet-rendered.twitter-tweet
+!world-fusigi.net##.twitter-tweet-rendered.twitter-tweet
 
 !--- blog.livedoor.jp ---!
 blog.livedoor.jp###\37 w2v39bp > div
