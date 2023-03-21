@@ -7,7 +7,7 @@
 *##.hatena-bookmark-button-frame
 ||platform.twitter.com/widgets/tweet_button.*$subdocument
 ||social-plugins.line.me/widget/share$subdocument
-twitter.com###credential_picker_container
+!twitter.com###credential_picker_container
 *###gdpr-banner
 
 !--- 一般 ---!
