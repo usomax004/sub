@@ -9,6 +9,7 @@
 ||social-plugins.line.me/widget/share$subdocument
 !twitter.com###credential_picker_container
 *###gdpr-banner
+||i.imgur.com
 
 !--- 一般 ---!
 eng-entrance.com##.left-bottom-float
