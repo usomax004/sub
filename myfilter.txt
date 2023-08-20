@@ -175,11 +175,11 @@ gahalog.2chblog.jp###main > .rss-outer
 news.2chblog.jp##.aida
 
 !--- おーるじゃんる ---!
-crx7601.com##table
-crx7601.com##.article-body-more > .box-title
-crx7601.com##b
-crx7601.com##.ad-center.yms-user-ad-728
-crx7601.com##.blogroll-channel
+!crx7601.com##table
+!crx7601.com##.article-body-more > .box-title
+!crx7601.com##b
+!crx7601.com##.ad-center.yms-user-ad-728
+!crx7601.com##.blogroll-channel
 
 !--- エクサクロス ---!
 exawarosu.net##.img-links
